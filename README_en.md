@@ -1,0 +1,1 @@
+*README dosyasını ingilizceye çevirin.*
